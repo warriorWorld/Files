@@ -1,0 +1,29 @@
+Mobile: Google play;TapTap
+Pros: 
+short development period
+low quality acceptable
+
+Cons:
+too many competitors, your app will be burried, no one gonna download it
+rely on ADs
+
+H5: 4399;Itch.io;Wechat(focus on social communication)
+Pros:
+short development period
+low quality acceptable
+
+Cons:
+rely on ADs
+
+PC: Steam;Itch.io
+Pros: 
+get money directly
+more chances your game to expose to players
+
+Cons:
+long development period
+
+
+Console:
+PS
+Switch

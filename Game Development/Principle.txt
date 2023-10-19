@@ -1,0 +1,11 @@
+Fun:
+reward/random/impact
+fantasy
+challenge
+
+Core:
+mechanism
+art
+story
+music
+fun loop

@@ -1,0 +1,43 @@
+Card: 杀戮尖塔；怪物火车；月圆之夜；邪恶铭刻；炉石传说；骰子地下城
+
+Rouge-like:
+Card：杀戮尖塔；怪物火车；月圆之夜；邪恶铭刻；骰子地下城
+Strategy: 贪婪洞窟；
+Action：死亡细胞；元气骑士
+
+Platfomer: 蔚蓝
+Runner: 地铁跑酷；神庙逃亡；疯狂喷气机；滑雪；是男人就下一百层；是男人就上一百层
+
+bullet hell: 元气骑士；打飞机
+
+Casual: 潜艇大战；行走大师；拼图；乒乓；俄罗斯方块；2048；贪吃蛇
+match-three：消消乐
+tower-defense：兽人必须死；植物大战僵尸
+
+陷阵之志
+
+********************************************************************************************************
+Puzzle: 
+Story：奇异人生
+Horror：小小梦魇
+
+Turn-based: 仙剑奇侠传；星之海
+
+Survive: 饥荒；
+
+Castlevania-like: 空洞骑士；ori; 密特罗德生存恐惧
+
+Souls-like: 空洞骑士；盐与避难所；渎神；
+
+Strategy game: 火焰纹章；
+
+Simulator:
+farming: 星露谷物语；牧场物语
+
+educational:  coding simulator;
+
+Story Telling: 13机兵防卫圈；星之海；仙剑奇侠传；奇异人生；死亡搁浅
+
+education simulation: 宝可梦；
+
+RPGs(expensive;):  星之海；仙剑奇侠传
