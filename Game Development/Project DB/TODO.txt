@@ -11,3 +11,7 @@ equiptments design:
 
 
 gem design:
+
+monster design:
+
+story:
